@@ -8,5 +8,5 @@ spring:
         git:
           uri: https://github.com/tmdghks2515/made-for-maid.config-files
           default-label: main
-          username: maven-token
+          username: anan
           password: ${GITHUB_MAVEN_TOKEN_KEY}
